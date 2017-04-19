@@ -5,7 +5,7 @@ baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
 title: zzr1000
-subtitle: "IT CT == ICT Technology"
+subtitle: "ICT Technology"
 description: "zzr1000's blogs"
 keywords: zzr1000, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zhuang Ma
-organization: zkh360.com
+organization: zzr1000.cn
 organization_url: zzr1000.cn
 github_username: zzr1000
 location: Nanjing, China
