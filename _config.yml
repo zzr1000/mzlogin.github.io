@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://zzr1000.cn
 date_format: "ordinal"
 title: zzr1000
 subtitle: "ICT Technology"
 description: "zzr1000's blogs"
-keywords: zzr1000, Zhuang Ma, mzlogin, mazhuang
+keywords: zzr1000, zzr
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: zzr1000
 organization: zzr1000.cn
 organization_url: zzr1000.cn
 github_username: zzr1000
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: zzr1000/zzr1000.github.io
 
 # ---------------- #
 #      Comments    #
