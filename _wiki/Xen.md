@@ -7,7 +7,7 @@ keywords: 虚拟化, xen
 ---
 
 * 利用xen设计虚拟机器：<http://linux.vbird.org/linux_enterprise/xen.php>
-
+	 简体中文翻译版本：<http://blog.csdn.net/donglynn/article/details/50378898>
 
 
 * 进程间通信的方式
