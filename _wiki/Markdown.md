@@ -11,7 +11,7 @@ keywords: Markdown
 
 
 
-* DLL 文件的作用
+* Markdown 语法手册：<http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title>
 
 
 
