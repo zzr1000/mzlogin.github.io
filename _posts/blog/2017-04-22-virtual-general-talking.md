@@ -6,6 +6,8 @@ description: 虚拟化技术漫谈
 keywords: 虚拟化, virtual
 ---
 
+
+
 ### 1、虚拟化技术简介
 
 * **什么是虚拟化**
