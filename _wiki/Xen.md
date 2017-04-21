@@ -10,7 +10,7 @@ keywords: 虚拟化, xen
 	 简体中文翻译版本：<http://blog.csdn.net/donglynn/article/details/50378898>
 
 
-* 进程间通信的方式
+* 虚拟化技术漫谈：<https://www.ibm.com/developerworks/cn/linux/l-cn-vt/>
 
 
 
