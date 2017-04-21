@@ -15,7 +15,7 @@ keywords: 虚拟化, xen
 
 
 
-* Xen官网：<www.xen.org>
+* Xen官网：<http://www.xen.org>
 
 
 
