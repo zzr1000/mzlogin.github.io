@@ -19,7 +19,7 @@ keywords: 虚拟化, xen
 
 
 
-* 什么是存储过程?
+* 全虚拟化和半虚拟化：<http://blog.chinaunix.net/uid-1878792-id-1994100.html>
 
 
 
