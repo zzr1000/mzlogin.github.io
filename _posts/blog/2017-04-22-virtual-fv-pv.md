@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  全虚拟化与半虚拟化的区别
-categories: 7-虚拟化
+categories: 07-虚拟化
 description:  全虚拟化与半虚拟化的区别
 keywords: 虚拟化, virtual
 ---

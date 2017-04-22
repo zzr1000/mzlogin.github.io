@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 虚拟化技术漫谈
-categories: 7-虚拟化
+categories: 07-虚拟化
 description: 虚拟化技术漫谈
 keywords: 虚拟化, virtual
 ---

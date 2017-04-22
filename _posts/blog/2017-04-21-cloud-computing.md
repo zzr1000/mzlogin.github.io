@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 云计算
-categories: 5-云计算
+categories: 05-云计算
 description: 云计算
 keywords: cloud,computing, 云计算
 ---
